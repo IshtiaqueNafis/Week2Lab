@@ -1,0 +1,12 @@
+C:\Users\Nafis Ishtiaque\Documents\Week2Lab\bin\Debug\Week2Lab.exe.config
+C:\Users\Nafis Ishtiaque\Documents\Week2Lab\bin\Debug\Week2Lab.exe
+C:\Users\Nafis Ishtiaque\Documents\Week2Lab\bin\Debug\Week2Lab.pdb
+C:\Users\Nafis Ishtiaque\Documents\Week2Lab\obj\Debug\Week2Lab.csprojAssemblyReference.cache
+C:\Users\Nafis Ishtiaque\Documents\Week2Lab\obj\Debug\Week2Lab.Properties.Resources.resources
+C:\Users\Nafis Ishtiaque\Documents\Week2Lab\obj\Debug\Week2Lab.csproj.GenerateResource.cache
+C:\Users\Nafis Ishtiaque\Documents\Week2Lab\obj\Debug\Week2Lab.csproj.CoreCompileInputs.cache
+C:\Users\Nafis Ishtiaque\Documents\Week2Lab\obj\Debug\Week2Lab.exe
+C:\Users\Nafis Ishtiaque\Documents\Week2Lab\obj\Debug\Week2Lab.pdb
+C:\Users\Nafis Ishtiaque\Documents\Week2Lab\obj\Debug\Week2Lab.Form1.resources
+C:\Users\Nafis Ishtiaque\Documents\Week2Lab\obj\Debug\Week2Lab.Question_2.resources
+C:\Users\Nafis Ishtiaque\Documents\Week2Lab\obj\Debug\Week2Lab.question4.resources
